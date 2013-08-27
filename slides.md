@@ -1,3 +1,5 @@
+<section data-background="https://aorra.metadata.net/assets/images/bg.jpg">
+
 # AORRA
 ## Automating Reef Report Cards
 
