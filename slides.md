@@ -1,7 +1,9 @@
-<section data-background="https://aorra.metadata.net/assets/images/bg.jpg">
-
-# AORRA
-## Automating Reef Report Cards
+<section data-background="images/bg.jpg">
+<div style="background: rgba(0,0,0,0.6); border-radius: 4px; padding-top: 100px; padding-bottom: 100px">
+  <h1>AORRA</h1>
+  <h2>Automating Reef Report Cards</h2>
+</div>
+</section>
 
 ---
 
