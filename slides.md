@@ -33,11 +33,15 @@ the Great Barrier Reef.
 Sets water quality and land management targets required to meet the long-term
 goal.
 
+![Reef Plan](images/reef-plan-13-thumb-a.jpg)
+
 
 ### Reef Report Card
 
 Reports on progress towards those targets, using measurements taken on a 
 (mostly) annual basis.
+
+![Reef Report Card](images/reef-report-card-2011.jpg)
 
 
 ### Released so far
