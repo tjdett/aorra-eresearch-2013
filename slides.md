@@ -7,24 +7,44 @@
 
 ## What is a "Reef Report Card"?
 
-2009 - Reef Water Quality Protection Plan
+<p style="font-size: 10em">?</p>
+
+
+### 2009 - Reef Water Quality Protection Plan
 
 *Long term goal*: 
-> To ensure that by 2020 the quality of water entering the reef from broadscale land use has no detrimental impact on the health and resilience of the Great Barrier Reef.
+> To ensure that by 2020 the quality of water entering the reef from
+broadscale land use has no detrimental impact on the health and resilience of
+the Great Barrier Reef.
 
-Water quality and land management targets to meet that goal.
 
-Report cards measure progress towards those targets.
+### Reef Plan
 
----
+Sets water quality and land management targets required to meet the long-term
+goal.
 
-## Released so far
+
+### Reef Report Card
+
+Reports on progress towards those targets, using measurements taken on a 
+(mostly) annual basis.
+
+
+### Released so far
 
 *Baseline* 2009 → Released August 2011
 
 *2nd* 2010 → Released April 2013
 
 *3rd* 2011 → Released July 2013
+
+---
+
+## Why automate?
+
+ - Produce reports faster
+
+ - Reduce data-entry errors
 
 ---
 
