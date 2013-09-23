@@ -1,4 +1,12 @@
 <section data-background="images/bg.jpg">
+<!--
+Background attribution:
+
+The background for this page was derived from an original image
+(http://www.flickr.com/photos/sackerman519/4251310991/)
+by Sarah Ackerman (http://www.flickr.com/photos/sackerman519/) and is used under her
+Some Rights Reserved licence (http://creativecommons.org/licenses/by/2.0/).
+-->
 <div style="background: rgba(0,0,0,0.6); border-radius: 4px; padding-top: 100px; padding-bottom: 100px">
   <h1>AORRA</h1>
   <h2>Automating Reef Report Cards</h2>
