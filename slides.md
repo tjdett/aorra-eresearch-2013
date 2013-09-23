@@ -65,7 +65,10 @@ Reports on progress towards those targets, using measurements taken on a
 ## Our work so far
 
  * Focusing on Excel spreadsheets, not machine-focused formats
-   * Chart generation & data extraction from those formats
- * Client-focused
-   * Incremental improvement on existing workflow
-   * Constraints - "What can we easily do in their environment?"
+ * Chart generation & data extraction from those formats
+
+
+### Focussing on the client
+
+ * Incremental improvement on existing workflow
+ * Constraints - "What can we easily do in their environment?"
