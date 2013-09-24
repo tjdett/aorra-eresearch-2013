@@ -64,11 +64,27 @@ Reports on progress towards those targets, using measurements taken on a
 
 ## Our work so far
 
- * Focusing on Excel spreadsheets, not machine-focused formats
- * Chart generation & data extraction from those formats
+
+### Data Input Formats
+
+Excel spreadsheets, not machine-friendly XML
+
+![Progress Table Source](images/progress_table_source.png)
+
+
+Chart generation & data extraction from those formats
+
+![Progress Table](images/progress_table.svg)
 
 
 ### Focussing on the client
 
- * Incremental improvement on existing workflow
- * Constraints - "What can we easily do in their environment?"
+Incremental improvement on existing workflow
+
+
+### Constraints 
+
+What can we easily do in their environment?
+
+![Internet Explorer 8](images/ie8.png)
+ 
