@@ -87,4 +87,12 @@ Incremental improvement on existing workflow
 What can we easily do in their environment?
 
 ![Internet Explorer 8](images/ie8.png)
+
+---
+
+## Demo
+
+<video controls>
+  <source src="video/quick_aorra_demo.webm"/>
+</video>
  
