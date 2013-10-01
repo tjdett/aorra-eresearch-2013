@@ -1,21 +1,26 @@
-<section data-background="images/bg.jpg">
-<!--
+<section data-background="images/bg.jpg"><!--
 Background attribution:
 
 The background for this page was derived from an original image
 (http://www.flickr.com/photos/sackerman519/4251310991/)
-by Sarah Ackerman (http://www.flickr.com/photos/sackerman519/) and is used under her
-Some Rights Reserved licence (http://creativecommons.org/licenses/by/2.0/).
+by Sarah Ackerman (http://www.flickr.com/photos/sackerman519/) and is used
+under her Some Rights Reserved licence
+(http://creativecommons.org/licenses/by/2.0/).
 -->
-<div style="background: rgba(0,0,0,0.6); border-radius: 4px; padding-top: 100px; padding-bottom: 100px">
-  <h1>AORRA</h1>
-  <h2>Automating Reef Report Cards</h2>
+<div class="title-page-box">
+  <h1>
+    AORRA
+    <small>Automating Reef Report Cards<small>
+  </h1>
 </div>
+<aside class="notes" data-markdown="">
+My name is Tim Dettrick, and I'm a software engineer on the AORRA project.
+</aside>
 </section>
 
 ---
 
-## What is a "Reef Report Card"?
+## What is a “Reef Report Card”?
 
 <p style="font-size: 10em">?</p>
 
