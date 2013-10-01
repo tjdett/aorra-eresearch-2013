@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.2" width="297mm" height="210mm" viewBox="0 0 29700 21000" preserveAspectRatio="xMidYMid" fill-rule="evenodd" clip-path="url(#presentation_clip_path)" stroke-width="28.222" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg" xmlns:ooo="http://xml.openoffice.org/svg/export" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve">
+ <defs class="ClipPathGroup">
+  <clipPath id="presentation_clip_path" clipPathUnits="userSpaceOnUse">
+   <rect x="0" y="0" width="29700" height="21000"/>
+  </clipPath>
+ </defs>
+ <defs class="TextShapeIndex">
+  <g ooo:slide="id1" ooo:id-list="id3 id4 id5 id6 id7 id8 id9 id10 id11 id12 id13 id14 id15 id16 id17 id18 id19 id20 id21 id22 id23 id24 id25 id26 id27 id28 id29 id30 id31 id32 id33 id34 id35 id36 id37 id38 id39 id40 id41 id42 id43 id44 id45"/>
+ </defs>
+ <defs class="EmbeddedBulletChars">
+  <g id="bullet-char-template(57356)" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M 580,1141 L 1163,571 580,0 -4,571 580,1141 Z"/>
+  </g>
+  <g id="bullet-char-template(57354)" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M 8,1128 L 1137,1128 1137,0 8,0 8,1128 Z"/>
+  </g>
+  <g id="bullet-char-template(10146)" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M 174,0 L 602,739 174,1481 1456,739 174,0 Z M 1358,739 L 309,1346 659,739 1358,739 Z"/>
+  </g>
+  <g id="bullet-char-template(10132)" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M 2015,739 L 1276,0 717,0 1260,543 174,543 174,936 1260,936 717,1481 1274,1481 2015,739 Z"/>
+  </g>
+  <g id="bullet-char-template(10007)" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M 0,-2 C -7,14 -16,27 -25,37 L 356,567 C 262,823 215,952 215,954 215,979 228,992 255,992 264,992 276,990 289,987 310,991 331,999 354,1012 L 381,999 492,748 772,1049 836,1024 860,1049 C 881,1039 901,1025 922,1006 886,937 835,863 770,784 769,783 710,716 594,584 L 774,223 C 774,196 753,168 711,139 L 727,119 C 717,90 699,76 672,76 641,76 570,178 457,381 L 164,-76 C 142,-110 111,-127 72,-127 30,-127 9,-110 8,-76 1,-67 -2,-52 -2,-32 -2,-23 -1,-13 0,-2 Z"/>
+  </g>
+  <g id="bullet-char-template(10004)" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M 285,-33 C 182,-33 111,30 74,156 52,228 41,333 41,471 41,549 55,616 82,672 116,743 169,778 240,778 293,778 328,747 346,684 L 369,508 C 377,444 397,411 428,410 L 1163,1116 C 1174,1127 1196,1133 1229,1133 1271,1133 1292,1118 1292,1087 L 1292,965 C 1292,929 1282,901 1262,881 L 442,47 C 390,-6 338,-33 285,-33 Z"/>
+  </g>
+  <g id="bullet-char-template(9679)" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M 813,0 C 632,0 489,54 383,161 276,268 223,411 223,592 223,773 276,916 383,1023 489,1130 632,1184 813,1184 992,1184 1136,1130 1245,1023 1353,916 1407,772 1407,592 1407,412 1353,268 1245,161 1136,54 992,0 813,0 Z"/>
+  </g>
+  <g id="bullet-char-template(8226)" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M 346,457 C 273,457 209,483 155,535 101,586 74,649 74,723 74,796 101,859 155,911 209,963 273,989 346,989 419,989 480,963 531,910 582,859 608,796 608,723 608,648 583,586 532,535 482,483 420,457 346,457 Z"/>
+  </g>
+  <g id="bullet-char-template(8211)" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M -4,459 L 1135,459 1135,606 -4,606 -4,459 Z"/>
+  </g>
+ </defs>
+ <defs class="TextEmbeddedBitmaps"/>
+ <g>
+  <g id="id2" class="Master_Slide">
+   <g id="bg-id2" class="Background"/>
+   <g id="bo-id2" class="BackgroundObjects"/>
+  </g>
+ </g>
+ <g class="SlideGroup">
+  <g>
+   <g id="id1" class="Slide" clip-path="url(#presentation_clip_path)">
+    <g class="Page">
+     <g class="Group">
+      <g class="com.sun.star.drawing.CustomShape">
+       <g id="id3">
+        <path fill="none" stroke="rgb(0,0,0)" stroke-width="26" d="M 4300,2318 L 7701,2318 7701,4101 4300,4101 4300,2318 4300,2318 Z"/>
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="423px" font-weight="400"><tspan class="TextPosition" x="4550" y="2871"><tspan fill="rgb(0,0,0)" stroke="none">Adoption of </tspan></tspan><tspan class="TextPosition" x="4550" y="3378"><tspan fill="rgb(0,0,0)" stroke="none">Management </tspan></tspan><tspan class="TextPosition" x="4550" y="3885"><tspan fill="rgb(0,0,0)" stroke="none">Practices</tspan></tspan></tspan></text>
+       </g>
+      </g>
+      <g class="com.sun.star.drawing.CustomShape">
+       <g id="id4">
+        <path fill="none" stroke="rgb(0,0,0)" stroke-width="26" d="M 12500,2199 L 16100,2199 16100,4489 12500,4489 12500,2199 12500,2199 Z"/>
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="423px" font-weight="400"><tspan class="TextPosition" x="12750" y="2752"><tspan fill="rgb(0,0,0)" stroke="none">Wetlands,</tspan></tspan></tspan><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="423px" font-weight="400"><tspan class="TextPosition" x="12750" y="3259"><tspan fill="rgb(0,0,0)" stroke="none">Riparian </tspan></tspan><tspan class="TextPosition" x="12750" y="3766"><tspan fill="rgb(0,0,0)" stroke="none">Vegetation,</tspan></tspan></tspan><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="423px" font-weight="400"><tspan class="TextPosition" x="12750" y="4273"><tspan fill="rgb(0,0,0)" stroke="none">Ground Cover</tspan></tspan></tspan></text>
+       </g>
+      </g>
+      <g class="com.sun.star.drawing.CustomShape">
+       <g id="id5">
+        <path fill="none" stroke="rgb(0,0,0)" stroke-width="26" d="M 8600,2699 L 12001,2699 12001,3975 8600,3975 8600,2699 8600,2699 Z"/>
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="423px" font-weight="400"><tspan class="TextPosition" x="8850" y="3252"><tspan fill="rgb(0,0,0)" stroke="none">Practice </tspan></tspan><tspan class="TextPosition" x="8850" y="3759"><tspan fill="rgb(0,0,0)" stroke="none">Effectiveness</tspan></tspan></tspan></text>
+       </g>
+      </g>
+      <g class="com.sun.star.drawing.CustomShape">
+       <g id="id6">
+        <path fill="none" stroke="rgb(0,0,0)" stroke-width="26" d="M 16600,2199 L 19401,2199 19401,3475 16600,3475 16600,2199 16600,2199 Z"/>
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="423px" font-weight="400"><tspan class="TextPosition" x="16850" y="2752"><tspan fill="rgb(0,0,0)" stroke="none">Catchment</tspan></tspan></tspan><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="423px" font-weight="400"><tspan class="TextPosition" x="16850" y="3259"><tspan fill="rgb(0,0,0)" stroke="none">Loads</tspan></tspan></tspan></text>
+       </g>
+      </g>
+      <g class="com.sun.star.drawing.CustomShape">
+       <g id="id7">
+        <path fill="none" stroke="rgb(0,0,0)" stroke-width="26" d="M 20000,2199 L 23401,2199 23401,4489 20000,4489 20000,2199 20000,2199 Z"/>
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="423px" font-weight="400"><tspan class="TextPosition" x="20250" y="2752"><tspan fill="rgb(0,0,0)" stroke="none">Marine</tspan></tspan></tspan><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="423px" font-weight="400"><tspan class="TextPosition" x="20250" y="3259"><tspan fill="rgb(0,0,0)" stroke="none">Water Quality</tspan></tspan></tspan><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="423px" font-weight="400"><tspan class="TextPosition" x="20250" y="3766"><tspan fill="rgb(0,0,0)" stroke="none">Seagrass</tspan></tspan></tspan><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="423px" font-weight="400"><tspan class="TextPosition" x="20250" y="4273"><tspan fill="rgb(0,0,0)" stroke="none">Coral</tspan></tspan></tspan></text>
+       </g>
+      </g>
+      <g class="com.sun.star.drawing.CustomShape">
+       <g id="id8">
+        <text class="TextShape"><tspan ooo:numbering-type="number-style" class="ListItem" font-family="Liberation Sans, sans-serif" font-size="423px" font-weight="400"><tspan class="TextPosition" x="4366" y="1552"><tspan fill="rgb(0,0,0)" stroke="none">Kevin McCosker</tspan></tspan></tspan><tspan ooo:numbering-type="number-style" class="ListItem" font-family="Liberation Sans, sans-serif" font-size="423px" font-weight="400"><tspan class="TextPosition" x="4366" y="2059"><tspan fill="rgb(0,0,0)" stroke="none">(DAFF)</tspan></tspan></tspan></text>
+       </g>
+      </g>
+      <g class="com.sun.star.drawing.CustomShape">
+       <g id="id9">
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="423px" font-weight="400"><tspan class="TextPosition" x="8249" y="1871"><tspan fill="rgb(0,0,0)" stroke="none">Mark Silburn (NRM) </tspan></tspan></tspan><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="423px" font-weight="400"><tspan class="TextPosition" x="8249" y="2378"><tspan fill="rgb(0,0,0)" stroke="none">Steve Attard (CSIRO)</tspan></tspan></tspan></text>
+       </g>
+      </g>
+      <g class="com.sun.star.drawing.CustomShape">
+       <g id="id10">
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="423px" font-weight="400"><tspan class="TextPosition" x="16650" y="1552"><tspan fill="rgb(0,0,0)" stroke="none">Dave Waters </tspan></tspan></tspan><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="423px" font-weight="400"><tspan class="TextPosition" x="16650" y="2059"><tspan fill="rgb(0,0,0)" stroke="none">(NRM)</tspan></tspan></tspan></text>
+       </g>
+      </g>
+      <g class="com.sun.star.drawing.CustomShape">
+       <g id="id11">
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="423px" font-weight="400"><tspan class="TextPosition" x="20050" y="1552"><tspan fill="rgb(0,0,0)" stroke="none">Katherine Martin</tspan></tspan></tspan><tspan ooo:numbering-type="number-style" class="ListItem" font-family="Liberation Sans, sans-serif" font-size="423px" font-weight="400"><tspan class="TextPosition" x="20050" y="2059"><tspan fill="rgb(0,0,0)" stroke="none">(GBRMPA)</tspan></tspan></tspan></text>
+       </g>
+      </g>
+      <g class="com.sun.star.drawing.CustomShape">
+       <g id="id12">
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="423px" font-weight="400"><tspan class="TextPosition" x="12507" y="1503"><tspan fill="rgb(0,0,0)" stroke="none">Christian Witte,</tspan></tspan></tspan><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="423px" font-weight="400"><tspan class="TextPosition" x="12507" y="2010"><tspan fill="rgb(0,0,0)" stroke="none">Dan Tindall (DSITIA)</tspan></tspan></tspan></text>
+       </g>
+      </g>
+      <g class="com.sun.star.drawing.ConnectorShape">
+       <g id="id13">
+        <path fill="none" stroke="rgb(0,0,0)" stroke-width="26" d="M 6000,4100 L 7898,5827"/>
+        <path fill="rgb(0,0,0)" stroke="none" d="M 8115,6025 L 7797,5949 7808,5895 8031,5949 7956,5731 8009,5716 8115,6025 Z"/>
+       </g>
+      </g>
+      <g class="com.sun.star.drawing.ConnectorShape">
+       <g id="id14">
+        <path fill="none" stroke="rgb(0,0,0)" stroke-width="26" d="M 10300,3975 L 10767,5741"/>
+        <path fill="rgb(0,0,0)" stroke="none" d="M 10842,6025 L 10616,5788 10655,5749 10813,5915 10868,5692 10921,5708 10842,6025 Z"/>
+       </g>
+      </g>
+      <g class="com.sun.star.drawing.ConnectorShape">
+       <g id="id15">
+        <path fill="none" stroke="rgb(0,0,0)" stroke-width="26" d="M 14300,4489 L 14377,5732"/>
+        <path fill="rgb(0,0,0)" stroke="none" d="M 14395,6025 L 14220,5749 14266,5717 14388,5912 14486,5704 14535,5729 14395,6025 Z"/>
+       </g>
+      </g>
+      <g class="com.sun.star.drawing.ConnectorShape">
+       <g id="id16">
+        <path fill="none" stroke="rgb(0,0,0)" stroke-width="26" d="M 18000,3475 L 18130,5731"/>
+        <path fill="rgb(0,0,0)" stroke="none" d="M 18147,6025 L 17973,5748 18019,5717 18140,5912 18239,5704 18288,5730 18147,6025 Z"/>
+       </g>
+      </g>
+      <g class="com.sun.star.drawing.CustomShape">
+       <g id="id17">
+        <path fill="none" stroke="rgb(0,0,0)" stroke-width="26" d="M 7245,6024 L 23742,6024 23742,7300 7245,7300 7245,6024 7245,6024 Z"/>
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="423px" font-weight="400"><tspan class="TextPosition" x="7495" y="6577"><tspan fill="rgb(0,0,0)" stroke="none">Word docs (describing intro, methods,  tabulated results, interpretation results),</tspan></tspan></tspan><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="423px" font-weight="400"><tspan class="TextPosition" x="7495" y="7084"><tspan fill="rgb(0,0,0)" stroke="none"> </tspan><tspan fill="rgb(0,0,0)" stroke="none">excel spreadsheets, CSV files, photos (where required), shape files (where required)</tspan></tspan></tspan></text>
+       </g>
+      </g>
+      <g class="com.sun.star.drawing.ConnectorShape">
+       <g id="id18">
+        <path fill="none" stroke="rgb(0,0,0)" stroke-width="26" d="M 13087,7299 L 13035,7726"/>
+        <path fill="rgb(0,0,0)" stroke="none" d="M 12999,8018 L 12877,7714 12928,7692 13013,7905 13147,7719 13190,7753 12999,8018 Z"/>
+       </g>
+      </g>
+      <g class="com.sun.star.drawing.CustomShape">
+       <g id="id19">
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="423px" font-weight="400"><tspan class="TextPosition" x="16307" y="8829"><tspan fill="rgb(0,0,0)" stroke="none">Reef Secretariat (DPC)</tspan></tspan></tspan></text>
+       </g>
+      </g>
+      <g class="com.sun.star.drawing.CustomShape">
+       <g id="id20">
+        <path fill="none" stroke="rgb(0,0,0)" stroke-width="26" d="M 10198,8018 L 15800,8018 15800,9401 10198,9401 10198,8018 10198,8018 Z"/>
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="423px" font-weight="400"><tspan class="TextPosition" x="10448" y="8571"><tspan fill="rgb(0,0,0)" stroke="none">Check data, aggregate, </tspan></tspan><tspan class="TextPosition" x="10448" y="9078"><tspan fill="rgb(0,0,0)" stroke="none">filter, reformatting, edit text </tspan></tspan></tspan></text>
+       </g>
+      </g>
+      <g class="com.sun.star.drawing.ConnectorShape">
+       <g id="id21">
+        <path fill="none" stroke="rgb(0,0,0)" stroke-width="26" d="M 21700,4489 L 21708,5731"/>
+        <path fill="rgb(0,0,0)" stroke="none" d="M 21710,6025 L 21551,5739 21598,5711 21709,5912 21818,5709 21866,5737 21710,6025 Z"/>
+       </g>
+      </g>
+      <g class="com.sun.star.drawing.CustomShape">
+       <g id="id22">
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="423px" font-weight="400"><tspan class="TextPosition" x="14550" y="10652"><tspan fill="rgb(0,0,0)" stroke="none">Coordinate Advisory Group (CAG)</tspan></tspan></tspan><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="423px" font-weight="400"><tspan class="TextPosition" x="14550" y="11159"><tspan fill="rgb(0,0,0)" stroke="none">Independent Science Panel (ISP)</tspan></tspan></tspan></text>
+       </g>
+      </g>
+      <g class="com.sun.star.drawing.CustomShape">
+       <g id="id23">
+        <path fill="none" stroke="rgb(0,0,0)" stroke-width="26" d="M 11800,10124 L 14201,10124 14201,11400 11800,11400 11800,10124 11800,10124 Z"/>
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="423px" font-weight="400"><tspan class="TextPosition" x="12050" y="10677"><tspan fill="rgb(0,0,0)" stroke="none">Review </tspan></tspan><tspan class="TextPosition" x="12050" y="11184"><tspan fill="rgb(0,0,0)" stroke="none">Process</tspan></tspan></tspan></text>
+       </g>
+      </g>
+      <g class="com.sun.star.drawing.ConnectorShape">
+       <g id="id24">
+        <path fill="none" stroke="rgb(0,0,0)" stroke-width="26" d="M 12999,9400 L 13000,9831"/>
+        <path fill="rgb(0,0,0)" stroke="none" d="M 13000,10125 L 12842,9839 12889,9810 13000,10012 13110,9810 13157,9838 13000,10125 Z"/>
+       </g>
+      </g>
+      <g class="com.sun.star.drawing.CustomShape">
+       <g id="id25">
+        <path fill="none" stroke="rgb(0,0,0)" stroke-width="26" d="M 11800,16376 L 15201,16376 15201,17200 11800,17200 11800,16376 11800,16376 Z"/>
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="423px" font-weight="400"><tspan class="TextPosition" x="12050" y="16929"><tspan fill="rgb(0,0,0)" stroke="none">IOC Approval</tspan></tspan></tspan></text>
+       </g>
+      </g>
+      <g class="com.sun.star.drawing.CustomShape">
+       <g id="id26">
+        <path fill="none" stroke="rgb(0,0,0)" stroke-width="26" d="M 11500,17732 L 15500,17732 15500,18501 11500,18501 11500,17732 11500,17732 Z"/>
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="423px" font-weight="400"><tspan class="TextPosition" x="12065" y="18285"><tspan fill="rgb(0,0,0)" stroke="none">Final Revisions</tspan></tspan></tspan></text>
+       </g>
+      </g>
+      <g class="com.sun.star.drawing.CustomShape">
+       <g id="id27">
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="423px" font-weight="400"><tspan class="TextPosition" x="15784" y="16953"><tspan fill="rgb(0,0,0)" stroke="none">Intergovernmental Operational Committee (IOC)</tspan></tspan></tspan></text>
+       </g>
+      </g>
+      <g class="com.sun.star.drawing.CustomShape">
+       <g id="id28">
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="423px" font-weight="400"><tspan class="TextPosition" x="16149" y="18285"><tspan fill="rgb(0,0,0)" stroke="none">Reef Plan Secretariat </tspan></tspan></tspan></text>
+       </g>
+      </g>
+      <g class="com.sun.star.drawing.CustomShape">
+       <g id="id29">
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="423px" font-weight="400"><tspan class="TextPosition" x="4105" y="19785"><tspan fill="rgb(0,0,0)" stroke="none">Publishing of Hard copies (Tier 1 only), Online (Web/HTML/PDF) – Tier 2)</tspan></tspan></tspan></text>
+       </g>
+      </g>
+      <g class="com.sun.star.drawing.ConnectorShape">
+       <g id="id30">
+        <path fill="none" stroke="rgb(0,0,0)" stroke-width="26" d="M 13500,17200 L 13500,17438"/>
+        <path fill="rgb(0,0,0)" stroke="none" d="M 13500,17732 L 13343,17445 13390,17417 13500,17619 13610,17417 13658,17445 13500,17732 Z"/>
+       </g>
+      </g>
+      <g class="com.sun.star.drawing.ConnectorShape">
+       <g id="id31">
+        <path fill="none" stroke="rgb(0,0,0)" stroke-width="26" d="M 11500,18116 L 10794,18131"/>
+        <path fill="rgb(0,0,0)" stroke="none" d="M 10500,18137 L 10783,17974 10813,18020 10613,18135 10817,18241 10790,18288 10500,18137 Z"/>
+       </g>
+      </g>
+      <g class="com.sun.star.drawing.CustomShape">
+       <g id="id32">
+        <path fill="none" stroke="rgb(0,0,0)" stroke-width="26" d="M 10656,12075 L 17458,12075 17458,14365 10656,14365 10656,12075 10656,12075 Z"/>
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="423px" font-weight="400"><tspan class="TextPosition" x="10906" y="12628"><tspan fill="rgb(0,0,0)" stroke="none">Checking reviewer comments </tspan></tspan><tspan class="TextPosition" x="10906" y="13135"><tspan fill="rgb(0,0,0)" stroke="none">and follow ups.  Editing,  re-</tspan></tspan><tspan class="TextPosition" x="10906" y="13642"><tspan fill="rgb(0,0,0)" stroke="none">formatting and summarizing data </tspan></tspan><tspan class="TextPosition" x="10906" y="14149"><tspan fill="rgb(0,0,0)" stroke="none">for graphic preparations.</tspan></tspan></tspan></text>
+       </g>
+      </g>
+      <g class="com.sun.star.drawing.ConnectorShape">
+       <g id="id33">
+        <path fill="none" stroke="rgb(0,0,0)" stroke-width="26" d="M 13000,11400 L 13001,11782"/>
+        <path fill="rgb(0,0,0)" stroke="none" d="M 13001,12076 L 12843,11790 12890,11761 13001,11963 13111,11761 13158,11789 13001,12076 Z"/>
+       </g>
+      </g>
+      <g class="com.sun.star.drawing.ConnectorShape">
+       <g id="id34">
+        <path fill="none" stroke="rgb(0,0,0)" stroke-width="26" d="M 10657,13220 L 10012,13220 10012,10762 11506,10762"/>
+        <path fill="rgb(0,0,0)" stroke="none" d="M 11800,10762 L 11513,10920 11485,10872 11687,10762 11485,10652 11513,10605 11800,10762 Z"/>
+       </g>
+      </g>
+      <g class="com.sun.star.drawing.ConnectorShape">
+       <g id="id35">
+        <path fill="none" stroke="rgb(0,0,0)" stroke-width="26" d="M 10657,13220 L 4200,13220 4200,5106 5806,5106"/>
+        <path fill="rgb(0,0,0)" stroke="none" d="M 6100,5106 L 5813,5264 5785,5216 5987,5106 5785,4996 5813,4949 6100,5106 Z"/>
+       </g>
+      </g>
+      <g class="com.sun.star.drawing.CustomShape">
+       <g id="id36">
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="423px" font-weight="400"><tspan class="TextPosition" x="17950" y="13353"><tspan fill="rgb(0,0,0)" stroke="none">Reef Secretariat (DPC)</tspan></tspan></tspan></text>
+       </g>
+      </g>
+      <g class="com.sun.star.drawing.CustomShape">
+       <g id="id37">
+        <path fill="none" stroke="rgb(0,0,0)" stroke-width="26" d="M 9800,14878 L 17201,14878 17201,15800 9800,15800 9800,14878 9800,14878 Z"/>
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="423px" font-weight="400"><tspan class="TextPosition" x="10173" y="15431"><tspan fill="rgb(0,0,0)" stroke="none">Graphic and web design and layout</tspan></tspan></tspan></text>
+       </g>
+      </g>
+      <g class="com.sun.star.drawing.ConnectorShape">
+       <g id="id38">
+        <path fill="none" stroke="rgb(0,0,0)" stroke-width="26" d="M 13501,14365 L 13501,14585"/>
+        <path fill="rgb(0,0,0)" stroke="none" d="M 13500,14879 L 13343,14592 13390,14564 13500,14766 13611,14564 13658,14593 13500,14879 Z"/>
+       </g>
+      </g>
+      <g class="com.sun.star.drawing.ConnectorShape">
+       <g id="id39">
+        <path fill="none" stroke="rgb(0,0,0)" stroke-width="26" d="M 13500,15800 L 13500,16083"/>
+        <path fill="rgb(0,0,0)" stroke="none" d="M 13500,16377 L 13343,16090 13390,16062 13500,16264 13610,16062 13658,16090 13500,16377 Z"/>
+       </g>
+      </g>
+      <g class="com.sun.star.drawing.CustomShape">
+       <g id="id40">
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="423px" font-weight="400"><tspan class="TextPosition" x="4506" y="12829"><tspan fill="rgb(0,0,0)" stroke="none">Where required</tspan></tspan></tspan></text>
+       </g>
+      </g>
+      <g class="com.sun.star.drawing.CustomShape">
+       <g id="id41">
+        <path fill="none" stroke="rgb(0,0,0)" stroke-width="26" d="M 6100,4722 L 22801,4722 22801,5491 6100,5491 6100,4722 6100,4722 Z"/>
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="423px" font-weight="400"><tspan class="TextPosition" x="10837" y="5275"><tspan fill="rgb(0,0,0)" stroke="none">NRM, DSITIA and GBRMPA approvals</tspan></tspan></tspan></text>
+       </g>
+      </g>
+      <g class="com.sun.star.drawing.CustomShape">
+       <g id="id42">
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="423px" font-weight="400"><tspan class="TextPosition" x="17650" y="15453"><tspan fill="rgb(0,0,0)" stroke="none">Graphic and web designers (DPC)</tspan></tspan></tspan></text>
+       </g>
+      </g>
+      <g class="com.sun.star.drawing.CustomShape">
+       <g id="id43">
+        <path fill="none" stroke="rgb(0,0,0)" stroke-width="26" d="M 6500,17499 L 10500,17499 10500,18775 6500,18775 6500,17499 6500,17499 Z"/>
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="423px" font-weight="400"><tspan class="TextPosition" x="7548" y="18052"><tspan fill="rgb(0,0,0)" stroke="none">Ministerial </tspan></tspan><tspan class="TextPosition" x="7687" y="18559"><tspan fill="rgb(0,0,0)" stroke="none">approval</tspan></tspan></tspan></text>
+       </g>
+      </g>
+      <g class="com.sun.star.drawing.ConnectorShape">
+       <g id="id44">
+        <path fill="none" stroke="rgb(0,0,0)" stroke-width="26" d="M 8500,18775 L 8513,19000"/>
+        <path fill="rgb(0,0,0)" stroke="none" d="M 8530,19294 L 8356,19017 8402,18986 8523,19181 8622,18973 8671,18999 8530,19294 Z"/>
+       </g>
+      </g>
+      <g class="com.sun.star.drawing.CustomShape">
+       <g id="id45">
+        <path fill="none" stroke="rgb(255,255,255)" d="M 14500,20000 L 3600,20000 3600,1000 25400,1000 25400,20000 14500,20000 Z"/>
+       </g>
+      </g>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

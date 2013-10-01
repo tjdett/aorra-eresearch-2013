@@ -77,14 +77,17 @@ Chart generation & data extraction from those formats
 ![Progress Table](images/progress_table.svg)
 
 
-### Focussing on the client
+### Not another workflow system
 
-Incremental improvement on existing workflow
+System assists the process, rather than changing it.
+
+<img src="images/reef_report_card_process.svg" style="height: 15em; background: white"/>
+
 
 
 ### Constraints 
 
 What can we easily do in their environment?
 
-![Internet Explorer 8](images/ie8.png)
- 
+<img src="images/ie8.png" style="background: white"/>
+
