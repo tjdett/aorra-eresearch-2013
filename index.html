@@ -52,6 +52,24 @@
 		  font-weight: normal;
 		}
 		</style>
+
+		<script src="lib/js/jquery-1.10.1.min.js"></script>
+		<script src="lib/js/Countable.js"></script>
+		<script src="lib/js/mousetrap.min.js"></script>
+		<script type="text/javascript">
+		Mousetrap.bind('w', function() {
+		  var $notes = $("<div></div>");
+		  $('.notes').each(function(i, e) {
+		    $notes.text($notes.text() + "\n\n" + $(e).text());
+		  });
+		  Countable.once($notes.get(0), function(counter) {
+		    var rate = 120; // words per minute
+		    var seconds = counter.words * 60 / rate;
+		    alert("Notes contain "+counter.words+" words =>\n "+~~(seconds/60)
+		      +" minutes, "+(seconds % 60)+" seconds speaking time.");
+		  });
+		});
+		</script>
 	</head>
 
 	<body>
