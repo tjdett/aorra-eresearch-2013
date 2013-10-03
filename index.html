@@ -117,11 +117,11 @@
         $('<a/>').sidr({
           name: 'sidr-notes'
         });
-        $('#sidr-notes').append($('<p>').css('white-space', 'pre-wrap'));
+        $('#sidr-notes').append($('<p>'));
         return function(currentSlide) {
           $('#sidr-notes p').empty();
-          $('#sidr-notes p').append('<br/>')
-            .append($(currentSlide).find('.notes').html());
+          var text = $(currentSlide).find('.notes').text();
+          $('#sidr-notes p').append('<br/>').append(marked(text));
         }
 			})();
 			
