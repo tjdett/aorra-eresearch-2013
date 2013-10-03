@@ -53,9 +53,11 @@
 		}
 		</style>
 
+		<link rel="stylesheet" href="lib/css/jquery.sidr.dark.css">
 		<script src="lib/js/jquery-1.10.1.min.js"></script>
 		<script src="lib/js/Countable.js"></script>
 		<script src="lib/js/mousetrap.min.js"></script>
+		<script src="lib/js/jquery.sidr.min.js"></script>
 		<script type="text/javascript">
 		Mousetrap.bind('w', function() {
 		  var $notes = $("<div></div>");
@@ -69,11 +71,14 @@
 		      +" minutes, "+(seconds % 60)+" seconds speaking time.");
 		  });
 		});
+		Mousetrap.bind('q', function() {
+      $.sidr('toogle', 'sidr-notes'); // No, really, that's not a typo!
+		});
 		</script>
 	</head>
 
-	<body>
-
+	<body>	
+	
 		<div class="reveal">
 		  <div class="slides">
 		    <section data-markdown="./slides.md" data-separator="^\n---\n" data-vertical="^\n\n" data-notes="^Note:" data-charset="utf-8"></section>
@@ -83,7 +88,7 @@
 		<script src="lib/js/head.min.js"></script>
 		<script src="js/reveal.min.js"></script>
 
-		<script>
+		<script type="text/javascript">
 
 			// Full list of configuration options available here:
 			// https://github.com/hakimel/reveal.js#configuration
@@ -106,7 +111,25 @@
 					{ src: 'plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } }
 				]
 			});
-
+			
+			// Add sidebar
+			var updateNotes = (function() {
+        $('<a/>').sidr({
+          name: 'sidr-notes'
+        });
+        $('#sidr-notes').append($('<p>').css('white-space', 'pre-wrap'));
+        return function(currentSlide) {
+          $('#sidr-notes p').empty();
+          $('#sidr-notes p').append('<br/>')
+            .append($(currentSlide).find('.notes').html());
+        }
+			})();
+			
+			// Update sidebar with notes
+      Reveal.addEventListener( 'slidechanged', function( event ) {
+        updateNotes(event.currentSlide);
+      });
+      setTimeout(function() { updateNotes(Reveal.getCurrentSlide()) }, 500);
 		</script>
 
 	</body>
