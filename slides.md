@@ -134,14 +134,6 @@ lead to consistent (and more easily detectable) errors in the output.
 
 ## Our work so far
 
-<img class="borderless square"
-  src="images/scala_logo.svg"/>
-+
-<img class="borderless square"
-  src="images/play_framework_logo.svg"/>
-+
-<img class="borderless square"
-  src="images/apache_jackrabbit_logo.svg"/>
 
 
 ### Data Input Formats
@@ -160,13 +152,27 @@ Chart generation & data extraction from those formats
 
 System assists the process, rather than changing it.
 
-<img src="images/reef_report_card_process.svg" style="height: 15em; background: white"/>
-
+<img src="images/reef_report_card_process.svg"
+  style="height: 15em; background: white"/>
 
 
 ### Constraints
 
-What can we easily do in their environment?
+<img class="borderless medium" src="images/ie8.png"/>
 
-<img src="images/ie8.png" style="background: white"/>
+(among others!)
+
+
+## Tech we're using
+
+<img class="borderless square"
+  src="images/scala_logo.svg"/>
++
+<img class="borderless square"
+  src="images/play_framework_logo.svg"/>
++
+<img class="borderless square"
+  src="images/apache_jackrabbit_logo.svg"/>
+
+... and quite a bit more.  
 
