@@ -97,6 +97,12 @@ report cards should closely follow the completion of data collection. However,
 analysis of the raw data by relevant agencies takes considerable time, as does
 collation and publishing.
 
+Media coverage (and resulting public engagement) also benefits from timely
+delivery of new report cards. The "current" health of the reef will generally
+be of more public interest than its "historical" health. As demonstrated by
+the 2011 report, extreme weather events impact water quality a great deal,
+making data collected prior to them decidedly less "current".
+
 ---
 
 ## Why automate?
@@ -104,6 +110,25 @@ collation and publishing.
  - Produce reports faster
 
  - Reduce data-entry errors
+
+Note:
+So, we want to automate the process of creating reef report cards.
+
+The central reason is that we believe if we can reduce the number of manual,
+repetitive steps involved, then the reports can be produced faster. This is a
+fairly straight-forward proposition, though we obviously need to be careful
+that the system doesn't introduce more work than it saves.
+
+There's another good reason to automate some of these steps though. Every time
+you manually copy data from one document to another, you raise the possiblity
+of incorrectly re-entering it. During our initial prototyping, we automated
+the generation of key charts in the reports and used a simple web-based form
+to populate them. As we increased the data points in the charts, we noticed
+that it became increasingly difficult to produce charts without transposing
+or miscopying values.
+
+Programmers can always use the wrong data fields, but at least our mistakes
+lead to consistent (and more easily detectable) errors in the output.
 
 ---
 
