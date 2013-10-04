@@ -134,6 +134,15 @@ lead to consistent (and more easily detectable) errors in the output.
 
 ## Our work so far
 
+<img class="borderless square"
+  src="images/scala_logo.svg"/>
++
+<img class="borderless square"
+  src="images/play_framework_logo.svg"/>
++
+<img class="borderless square"
+  src="images/apache_jackrabbit_logo.svg"/>
+
 
 ### Data Input Formats
 
