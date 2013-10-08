@@ -275,12 +275,25 @@ use JFreeChart.
 
 
 
-### Not another workflow system
+### Not a workflow system
 
 System assists the process, rather than changing it.
 
 <img src="images/reef_report_card_process.svg"
   style="height: 15em; background: white"/>
+
+Note:
+
+It's sometimes tempting to build workflow management into a system, to better
+"manage the process". There really aren't any good reasons to do that here
+though. There aren't many people involved once the raw data has been processed
+and analysed, and everybody talks to each other to sort out problems.
+
+In fact, we've set out to avoid incorporating processes whenever possible.
+There's no fixed data hierarchy and only a minimal folder-based permission
+system. That limits how much we can automate assembling a final report card,
+but it also removes problems like "only reporting riparian data every 4th
+year".
 
 
 ### Constraints
@@ -288,6 +301,26 @@ System assists the process, rather than changing it.
 <img class="borderless medium" src="images/ie8.png"/>
 
 (among others!)
+
+Note:
+
+We initially wanted to get Word documents out of the system and replace them
+with online collaborative editing - similar to EtherPad or Google Docs.
+Reef Secretariat were keen, but we quickly discovered a fairly major
+limitation - browser versions.
+
+The Queensland Government has, until very recently, used Internet Explorer 8
+as their default browser. IE8 doesn't support SVG or CSS3, and implements
+practically none of the HTML5 specifications. It doesn't even have a built-in
+spell checker. Practically no collaborative editing software was able to
+support it, so in the end we stuck with Microsoft Word documents, and used
+text extraction to show document differences in the system.
+
+Our document manager interface updates to show new files as they're uploaded,
+without requiring a browser refresh. The main aim is to provide a web
+experience that's as convenient as a shared network drive. Firefox and Chrome
+use Server Sent Events to stream updates as they happen. IE doesn't even
+support them in version 11, so to support it we've used polling event updates.
 
 ---
 
