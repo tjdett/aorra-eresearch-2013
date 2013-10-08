@@ -165,14 +165,31 @@ System assists the process, rather than changing it.
 
 ## Tech we're using
 
-<img class="borderless square"
-  src="images/scala_logo.svg"/>
+<a href="http://www.scala-lang.org/">
+  <img alt="Scala" class="borderless square"
+    src="images/scala_logo.svg"/>
+</a>
 +
-<img class="borderless square"
-  src="images/play_framework_logo.svg"/>
+<a href="http://www.playframework.com/">
+  <img alt="Play Framework" class="borderless square"
+    src="images/play_framework_logo.svg"/>
+</a>
 +
-<img class="borderless square"
-  src="images/apache_jackrabbit_logo.svg"/>
+<a href="http://jackrabbit.apache.org/">
+  <img alt="Apache Jackrabbit" class="borderless square"
+    src="images/apache_jackrabbit_logo.svg"/>
+</a>
 
-... and quite a bit more.  
+... and quite a bit more:
+
+[Batik][batik] ✧ [POI][poi] ✧ [Tika][tika] ✧ [docx4j][docx4j] ✧
+[JFreeChart][jfc] ✧ [CRaSH][crash]
+
+[batik]: http://xmlgraphics.apache.org/batik/
+[crash]: http://www.crashub.org/
+[docx4j]: https://github.com/plutext/docx4j
+[jfc]: http://www.jfree.org/jfreechart/
+[poi]: http://poi.apache.org/
+[tika]: http://tika.apache.org/
+
 
