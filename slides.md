@@ -358,4 +358,34 @@ and then deletes all of them.
 
 ## What's next?
 
+<br/>
+
+Web-focused charts & infographics
+
+<br/>
+
+Geospatial data
+
+<br/>
+
+Online editing and collaboration
+
+
+Note:
+
+So, what's next?
+
+Up until now Reef Secretariat have been focused on print-format report cards,
+with their website reusing the print assets. We'd like to start targeting the
+web, producing interactive charts and infographics to engage the public.
+
+We'd also like to integrate geospatial data, to give people the ability to
+drill down on a map and look at how different regions are faring.
+
+On the production side of things, we'd also like to reduce the reliance on 
+Word documents for report card production.
+
+
+
+
 
