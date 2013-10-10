@@ -322,6 +322,20 @@ experience that's as convenient as a shared network drive. Firefox and Chrome
 use Server Sent Events to stream updates as they happen. IE doesn't even
 support them in version 11, so to support it we've used polling event updates.
 
+
+### Chart creation
+
+<video controls>
+  <source src="video/chart.webm"/>
+</video>
+
+
+### Real-time notifications
+
+<video controls>
+  <source src="video/notifications.webm"/>
+</video>
+
 ---
 
 ## What's next?
