@@ -285,7 +285,6 @@ This example just uses AWT and Batik, though other more conventional charts
 use JFreeChart.
 
 
-
 ### Not a workflow system
 
 System assists the process, rather than changing it.
@@ -307,31 +306,7 @@ but it also removes problems like "only reporting riparian data every 4th
 year".
 
 
-### Constraints
-
-<img class="borderless medium" src="images/ie8.png"/>
-
-(among others!)
-
-Note:
-
-We initially wanted to get Word documents out of the system and replace them
-with online collaborative editing - similar to EtherPad or Google Docs.
-Reef Secretariat were keen, but we quickly discovered a fairly major
-limitation - browser versions.
-
-The Queensland Government has, until very recently, used Internet Explorer 8
-as their default browser. IE8 doesn't support SVG or CSS3, and implements
-practically none of the HTML5 specifications. It doesn't even have a built-in
-spell checker. Practically no collaborative editing software was able to
-support it, so in the end we stuck with Microsoft Word documents, and used
-text extraction to show document differences in the system.
-
-Our document manager interface updates to show new files as they're uploaded,
-without requiring a browser refresh. The main aim is to provide a web
-experience that's as convenient as a shared network drive. Firefox and Chrome
-use Server Sent Events to stream updates as they happen. IE doesn't even
-support them in version 11, so to support it we've used polling event updates.
+## In action
 
 
 ### Chart creation
