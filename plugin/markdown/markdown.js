@@ -212,7 +212,9 @@
 
 				// see https://developer.mozilla.org/en-US/docs/Web/API/element.getAttribute#Notes
 				if( datacharset != null && datacharset != '' ) {
-					xhr.overrideMimeType( 'text/html; charset=' + datacharset );
+				  if (xhr.overrideMimeType) {
+				    xhr.overrideMimeType( 'text/html; charset=' + datacharset );
+				  }
 				}
 
 				xhr.onreadystatechange = function() {

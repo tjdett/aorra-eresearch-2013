@@ -10,9 +10,20 @@ under her Some Rights Reserved licence
 <div class="title-page-box">
   <h1>
     AORRA
-    <small>Automating Reef Report Cards<small>
+    <small>Automating Reef Report Cards</small>
   </h1>
 </div>
+
+<div class="css3d-absent-warning">
+  <br/>
+  <h5>
+    <strong>Note:</strong>
+    This browser doesn't support this presentations 3D transforms, and
+    probably won't support the WebM videos later on.
+  </h5>
+</div>
+
+  
 <aside class="notes" data-markdown="">
 My name is Tim Dettrick, and I'm a software engineer at the University of
 Queensland working on the AORRA project.
@@ -325,14 +336,14 @@ support them in version 11, so to support it we've used polling event updates.
 
 ### Chart creation
 
-<video controls>
+<video class="webm-video" controls>
   <source src="video/chart.webm"/>
 </video>
 
 
 ### Real-time notifications
 
-<video controls>
+<video class="webm-video" controls>
   <source src="video/notifications.webm"/>
 </video>
 

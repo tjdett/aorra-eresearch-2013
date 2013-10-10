@@ -63,10 +63,14 @@
 		  border: none;
 		  box-shadow: none;
 		}
+		.csstransforms3d .css3d-absent-warning {
+		  display: none;
+		}
 		</style>
 
 		<link rel="stylesheet" href="lib/css/jquery.sidr.dark.css">
 		<script src="lib/js/jquery-1.10.1.min.js"></script>
+		<script src="lib/js/modernizr.custom.65019.js"></script>
 		<script src="lib/js/Countable.js"></script>
 		<script src="lib/js/mousetrap.min.js"></script>
 		<script src="lib/js/jquery.sidr.min.js"></script>
@@ -86,6 +90,13 @@
 		Mousetrap.bind('q', function() {
       $.sidr('toogle', 'sidr-notes'); // No, really, that's not a typo!
 		});
+		// Wait long enough for markdown to load
+		setTimeout(function() {
+		  if (Modernizr.video.webm == '') {
+		    $("<p><em>This browser does not support WebM videos.</em></p>")
+		      .replaceAll('.webm-video');
+      }
+		}, 1000);
 		</script>
 	</head>
 
