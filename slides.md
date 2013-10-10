@@ -289,8 +289,8 @@ use JFreeChart.
 
 System assists the process, rather than changing it.
 
-<img src="images/reef_report_card_process.svg"
-  style="height: 15em; background: white"/>
+<img class="borderless" src="images/reef_report_card_process.svg"
+  style="height: 15em; background: none"/>
 
 Note:
 
