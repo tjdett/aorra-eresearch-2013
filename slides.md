@@ -370,7 +370,6 @@ Geospatial data
 
 Online editing and collaboration
 
-
 Note:
 
 So, what's next?
@@ -394,5 +393,5 @@ Word documents for report card production.
 [tjdett.github.com/aorra-eresearch-2013][slides]
 
 [twitter]: http://twitter.com/tjdett
-[slides]: http://tjdett.github.com/aorra-eresearch-2013
+[slides]: http://uq-eresearch.github.io/aorra-eresearch-2013
 
