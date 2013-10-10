@@ -25,7 +25,7 @@ under her Some Rights Reserved licence
 
   
 <aside class="notes" data-markdown="">
-My name is Tim Dettrick, and I'm a software engineer at the University of
+My name is Tim Dettrick - I'm a software engineer at the University of
 Queensland working on the AORRA project.
 
 The goal of the AORRA project is to improve the delivery of annual reports
@@ -385,7 +385,14 @@ drill down on a map and look at how different regions are faring.
 On the production side of things, we'd also like to reduce the reliance on 
 Word documents for report card production.
 
+---
 
+# Questions ?
 
+[@tjdett][twitter]
 
+[tjdett.github.com/aorra-eresearch-2013][slides]
+
+[twitter]: http://twitter.com/tjdett
+[slides]: http://tjdett.github.com/aorra-eresearch-2013
 
