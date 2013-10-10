@@ -306,14 +306,27 @@ but it also removes problems like "only reporting riparian data every 4th
 year".
 
 
-## In action
-
-
 ### Chart creation
 
 <video class="webm-video" controls>
   <source src="video/chart.webm"/>
 </video>
+
+Note:
+
+So, time for a demo. [start video]
+
+AORRA is a modern web app, using asynchronous background requests to update
+the user interface.
+
+In this screencast we see files being uploaded as a group to AORRA, and we
+flip through the generated charts.
+
+All the charts are downloadable as a single archive, including vector and
+raster formats suitable for print and web publication.
+
+To demonstrate versioning, we upload the file again. Once we're done, we
+delete the file.
 
 
 ### Real-time notifications
@@ -321,6 +334,25 @@ year".
 <video class="webm-video" controls>
   <source src="video/notifications.webm"/>
 </video>
+
+Note:
+
+To aid collaboration, AORRA provides real-time notifications of other user
+activity. [start video]
+
+This screencast shows two different users logged, and how one user's actions
+can be watched by another.
+
+The top user navigates to a file and decides to watch it for changes. The
+bottom user navigates to the same file, and indicates they are editing the
+file by clicking "Edit".
+
+This action immediately updates the related counter for both users. It also
+adds a new notification message. The top user marks it as read.
+
+The bottom user uploads a new version of the file, and a notification
+immediately appears for the top user. The top user reads the new notification,
+and then deletes all of them.
 
 ---
 
