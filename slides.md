@@ -240,7 +240,7 @@ a Java Content Repository implementation. In our case - Apache Jackrabbit.
 We'd tied ourselves to the JVM, but we didn't actually need a servlet
 container for anything we'd be using, so we opted for the Play Framework.
 It's not quite as quick to develop with as Ruby's Rails or Python's Django,
-for a Java-based framework it's not bad.
+but for a Java-based framework it's not bad.
 
 Finally, as Play Framework is built by Typesafe, which was founded by the
 creators of the Scala programming language, we were able to mix in Scala
