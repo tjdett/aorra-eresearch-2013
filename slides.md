@@ -390,7 +390,7 @@ Word documents for report card production.
 
 [@tjdett][twitter]
 
-[tjdett.github.com/aorra-eresearch-2013][slides]
+[uq-eresearch.github.io/aorra-eresearch-2013][slides]
 
 [twitter]: http://twitter.com/tjdett
 [slides]: http://uq-eresearch.github.io/aorra-eresearch-2013
