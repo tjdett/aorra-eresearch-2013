@@ -188,7 +188,7 @@ soon discovered we had a problem:
 
 The best **simple** open-source document management systems tend to be written
 in PHP. The best open-source chart tools are written in Java. PHP to Java
-bridges are a great ways to spend weeks of your time worrying about
+bridges are of course great ways to spend weeks of your time worrying about
 interoperability issues.
 
 During the scoping study we'd already written Java-based chart libraries, so
