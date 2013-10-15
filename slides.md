@@ -12,6 +12,24 @@ under her Some Rights Reserved licence
     AORRA
     <small>Automating Reef Report Cards</small>
   </h1>
+    <br/>
+  <h2>
+    Tim Dettrick, Andre Gebers, Jane Hunter
+    <br/>
+    The University of Queensland
+  </h2>
+  <br/>
+  <h3>
+    <small>Part of the larger</small>
+    <div>
+    <img class="borderless" style="margin-right: 3em"
+      src="images/UQ_white_logo.svg"/>
+    eReefs
+    <img class="borderless" style="margin-left: 3em"
+      src="images/gbrf_white_logo.svg"/>
+    </div>
+    <small>Project</small>
+  </h3>
 </div>
 
 <div class="css3d-absent-warning">
@@ -44,7 +62,8 @@ improve their quality.
 Note:
 So, a quick background on what these reef report cards are...
 
-Water pollution is currently a threat to the Great Barrier Reef. It has a
+Water pollution is currently a threat to the Great Barrier Reef. It has 
+forty catchments and a total
 catchment area of more than four hundred thousand square kilometres, and many
 of the waterways in the catchment area contain significant sediment and
 chemical run-off from farming and grazing. This pollution is detrimental
@@ -133,6 +152,8 @@ making data collected prior to them decidedly less "current".
 
  - Produce reports faster
  - Reduce data-entry errors / improve quality assurance
+ - Data sharing/re-use
+ - Long term access and preservation
 
 Note:
 So, we want to automate the process of creating reef report cards.
@@ -272,7 +293,7 @@ saved by non-Microsoft office suites. Fortunately, we as developers were the
 only people not regularly using Microsoft Office, so that wasn't a big deal.
 
 
-Chart generation & data extraction from those formats
+Data extraction, processing & graphics generation
 
 ![Progress Table](images/progress_table.svg)
 
@@ -391,6 +412,10 @@ Word documents for report card production.
 [@tjdett][twitter]
 
 [uq-eresearch.github.io/aorra-eresearch-2013][slides]
+
+<br/>
+<img class="borderless" style="width: 15em"
+  src="images/UQ_centered_logo.svg"/>
 
 [twitter]: http://twitter.com/tjdett
 [slides]: http://uq-eresearch.github.io/aorra-eresearch-2013
