@@ -55,9 +55,9 @@ improve their quality.
 
 ---
 
-## What is a “Reef Report Card”?
+## “Reef Report Card”?
 
-<p style="font-size: 10em">?</p>
+<img class="borderless" src="images/catchments.png" style="height: 14em"/>
 
 Note:
 So, a quick background on what these reef report cards are...
@@ -97,9 +97,7 @@ deliverables to be completed by 2018.
 Reports on progress towards those targets, using measurements taken on a
 (mostly) annual basis.
 
-![Reef Plan](images/reef-plan-13-thumb-a.jpg)
-<span style="vertical-align: 1.5em"> → </span>
-![Reef Report Card](images/reef-report-card-2011.jpg)
+<img src="images/report_card_charts.png" style="height: 10em"/>
 
 Note:
 Reef report cards are issued for each calendar year, tracking progress against
@@ -133,6 +131,10 @@ the Department of Premier and Cabinet to produce regular report cards.
 *2nd* 2010 → Released April 2013
 
 *3rd* 2011 → Released July 2013
+
+![Reef Plan](images/reef-plan-13-thumb-a.jpg)
+<span style="vertical-align: 1.5em"> → </span>
+![Reef Report Card](images/reef-report-card-2011.jpg)
 
 Note:
 To provide the most useful feedback into how the plan should be implemented,
@@ -293,9 +295,11 @@ saved by non-Microsoft office suites. Fortunately, we as developers were the
 only people not regularly using Microsoft Office, so that wasn't a big deal.
 
 
+### Vector Charts
+
 Data extraction, processing & graphics generation
 
-![Progress Table](images/progress_table.svg)
+<img src="images/progress_table.svg" style="height: 14em"/>
 
 Note:
 
@@ -311,7 +315,7 @@ use JFreeChart.
 System assists the process, rather than changing it.
 
 <img class="borderless" src="images/reef_report_card_process.svg"
-  style="height: 15em; background: none"/>
+  style="height: 15em"/>
 
 Note:
 
@@ -329,7 +333,7 @@ year".
 
 ### Chart creation
 
-<video class="webm-video" controls>
+<video class="webm-video" style="height: 14em" controls>
   <source src="video/chart.webm"/>
 </video>
 
@@ -352,7 +356,7 @@ delete the file.
 
 ### Real-time notifications
 
-<video class="webm-video" controls>
+<video class="webm-video" style="height: 16em" controls>
   <source src="video/notifications.webm"/>
 </video>
 
