@@ -409,6 +409,55 @@ drill down on a map and look at how different regions are faring.
 On the production side of things, we'd also like to reduce the reliance on 
 Word documents for report card production.
 
+
+## Challenges ahead
+
+Linking report cards to raw data.
+
+<img title="Screenshot of Health-e-Waterways"
+  src="images/health-e-waterways_screenshot.png" style="height: 14em;"/>
+
+Note:
+
+Ultimately if we're going provide the ability to drill down using geospatial
+data we'd like to go all the way back to the raw data. The Health-e-Waterways
+project does something similar already.
+
+This will be a significant challege, because Reef Secretariat doesn't
+currently receive anything close to the raw data. Even the source data for
+their spreadsheets has generally been aggregated already, in many cases by
+internal software used by the contributors.
+
+As a result, we're planning to slowly work out way down while we work through
+how to acquire and associate lower-level data with higher-level report
+results.
+
+
+## Longer-term
+
+Integrating with eReefs to do it with web services.
+
+<h3 style="padding-top: 1em;">
+<span style="vertical-align: middle">eReefs → </span>
+<span style="vertical-align: middle">
+  <span style="font-size: 150%">?</span>
+  <span style="vertical-align: top; font-size: 200%">?</span>
+  <span style="font-size: 150%">?</span>
+</span>
+<span style="vertical-align: middle"> ← AORRA</span>
+</h3>
+
+Note:
+
+Longer-term we'd like AORRA to receive that lower-level data from the larger
+eReefs project, which is working to produce web data services for this data.
+
+Realistically though this ia a long-term aspiration. eReefs has a phased
+development out to 2016, and their APIs will have to provide up-to-date data
+from operational systems before we can use them. For now, AORRA is very much
+focused on providing tools to improve reporting in the short-term while a
+longer-term solution emerges.
+
 ---
 
 # Questions ?
