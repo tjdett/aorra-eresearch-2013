@@ -97,7 +97,9 @@ deliverables to be completed by 2018.
 Reports on progress towards those targets, using measurements taken on a
 (mostly) annual basis.
 
+<a href="images/report_card_charts_big.png">
 <img src="images/report_card_charts.png" style="height: 10em"/>
+</a>
 
 Note:
 Reef report cards are issued for each calendar year, tracking progress against
@@ -431,7 +433,7 @@ Word documents for report card production.
 Linking report cards to raw data.
 
 <img title="Screenshot of Health-e-Waterways"
-  src="images/health-e-waterways_screenshot.png" style="height: 14em;"/>
+  src="images/health-e-waterways_screenshot.jpg" style="height: 14em;"/>
 
 Note:
 
