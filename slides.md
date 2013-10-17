@@ -105,10 +105,11 @@ Note:
 Reef report cards are issued for each calendar year, tracking progress against
 the 2009 baseline measurements. Metrics include:
 
- - % of farmers who have adopted best practice land management
- - % coverage of groundcover and riparian vegetation
- - catchment pollution loads
- - marine coral health, sea-grass abundance and water quality
+ - the % of farmers who have adopted best practice land management
+ - % of coverage for groundcover and riparian vegetation
+ - catchment water pollution loads
+ - marine coral health & sea-grass abundance and
+ - water quality out on the reef.
 
 The report cards provide a scientific basis for assessing the effectiveness of
 the protection plan.
@@ -470,7 +471,7 @@ Note:
 Longer-term we'd like AORRA to receive that lower-level data from the larger
 eReefs project, which is working to produce web data services for this data.
 
-Realistically though this ia a long-term aspiration. eReefs has a phased
+Realistically though this is a long-term aspiration. eReefs has a phased
 development out to 2016, and their APIs will have to provide up-to-date data
 from operational systems before we can use them. For now, AORRA is very much
 focused on providing tools to improve reporting in the short-term while a
@@ -492,4 +493,13 @@ longer-term solution emerges.
 
 [twitter]: http://twitter.com/tjdett
 [slides]: http://uq-eresearch.github.io/aorra-eresearch-2013
+
+Note:
+
+So, that concludes my talk. Thank you for your time.
+
+If you'd like to view any of the slides or videos again, use the link or 
+QR code.
+
+Does anybody have any questions?
 

@@ -116,10 +116,10 @@
 		    $notes.text($notes.text() + "\n\n" + $(e).text());
 		  });
 		  Countable.once($notes.get(0), function(counter) {
-		    var rate = 120; // words per minute
+		    var rate = 125; // words per minute
 		    var seconds = counter.words * 60 / rate;
 		    alert("Notes contain "+counter.words+" words =>\n "+~~(seconds/60)
-		      +" minutes, "+(seconds % 60)+" seconds speaking time.");
+		      +" minutes, "+Math.round(seconds % 60)+" seconds speaking time.");
 		  });
 		});
 		Mousetrap.bind('q', function() {
