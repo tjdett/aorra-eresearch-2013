@@ -157,7 +157,8 @@ making data collected prior to them decidedly less "current".
     &#9193; Produce reports faster
   </li>
   <li>
-    &#x2611; Reduce data-entry errors / improve quality assurance
+    <span class="symbols">&#x2611;</span>
+    Reduce data-entry errors / improve quality assurance
   </li>
   <li>
     &#x267B; Data sharing/re-use
@@ -481,8 +482,10 @@ longer-term solution emerges.
 
 [uq-eresearch.github.io/aorra-eresearch-2013][slides]
 
-<br/>
-<img class="borderless" style="width: 15em"
+<img class="borderless" style="width: 5em"
+  src="images/presentation_qrcode.svg"/>
+
+<img class="borderless" style="width: 10em"
   src="images/UQ_centered_logo.svg"/>
 
 [twitter]: http://twitter.com/tjdett
