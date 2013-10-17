@@ -171,10 +171,12 @@ of incorrectly re-entering it. During our initial prototyping, we automated
 the generation of key charts in the reports and used a simple web-based form
 to populate them. As we increased the data points in the charts, we noticed
 that it became increasingly difficult to produce charts without transposing
-or miscopying values.
+or miscopying values. Automation should reduce data entry errors and improve
+QA.
 
-Programmers can always use the wrong data fields, but at least our mistakes
-lead to consistent (and more easily detectable) errors in the output.
+By putting report card data into an online system, we're also improving
+tracking of that data. That gives us opportunities to share and reuse data,
+and it also lets us improve long-term access and preservation of that data.
 
 ---
 
@@ -383,17 +385,9 @@ and then deletes all of them.
 
 ## What's next?
 
-<br/>
-
-Web-focused charts & infographics
-
-<br/>
-
-Geospatial data
-
-<br/>
-
-Online editing and collaboration
+ - Web-focused charts & infographics
+ - Geospatial data
+ - Online editing and collaboration
 
 Note:
 
