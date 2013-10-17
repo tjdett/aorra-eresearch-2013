@@ -152,10 +152,20 @@ making data collected prior to them decidedly less "current".
 
 ## Why automate?
 
- - Produce reports faster
- - Reduce data-entry errors / improve quality assurance
- - Data sharing/re-use
- - Long term access and preservation
+<ul class="unstyled">
+  <li>
+    &#9193; Produce reports faster
+  </li>
+  <li>
+    &#x2611; Reduce data-entry errors / improve quality assurance
+  </li>
+  <li>
+    &#x267B; Data sharing/re-use
+  </li>
+  <li>
+    &#x231B; Long term access and preservation
+  </li>
+</ul>
 
 Note:
 So, we want to automate the process of creating reef report cards.
@@ -385,9 +395,20 @@ and then deletes all of them.
 
 ## What's next?
 
- - Web-focused charts & infographics
- - Geospatial data
- - Online editing and collaboration
+<ul class="unstyled">
+  <li>
+    <span class="symbols">&#x1f4ca;</span>
+    Web-focused charts &amp; infographics
+  </li>
+  <li>
+    <span class="symbols">&#x1F30F;</span>
+    Geospatial data
+  </li>
+  <li>
+    <span class="symbols">&#x1f4ac;</span>
+    Online editing and collaboration
+  </li>
+</ul> 
 
 Note:
 
