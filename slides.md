@@ -411,7 +411,6 @@ This screencast shows two different users logged in:
    - reads the new notification
    - deletes all notifications
 
-
 ---
 
 ## What's next?
