@@ -278,20 +278,18 @@ In the end, we decided to write own DMS
 
 Note:
 
-So, having decided we needed our own document management system, we thought
-we'd follow the lead of other document management systems and build on top of
-a Java Content Repository implementation. In our case - Apache Jackrabbit.
-
-We'd tied ourselves to the JVM, but we didn't actually need a servlet
-container for anything we'd be using, so we opted for the Play Framework.
-It's not quite as quick to develop with as Ruby's Rails or Python's Django,
-but for a Java-based framework it's not bad.
-
-Finally, as Play Framework is built by Typesafe, which was founded by the
-creators of the Scala programming language, we were able to mix in Scala
-where it made sense. Neither myself or by colleague Andre Gebers had ever used
-Scala on a project before, so we limited how much we used it, but it certainly
-helped improve some collaborative features of the system.
+ - followed the lead of other document management systems 
+   - build on top of a Java Content Repository
+   - Apache Jackrabbit.
+ - Using JVM, - didn't need a servlet container
+   - opted for the Play Framework.
+   - not quite as quick to develop with as RoR / Django
+   - still pretty good
+ - Play Framework is built by Typesafe
+   - founded by the creators of the Scala programming language
+   - mix in Scala where it made sense. 
+   - hadn't used it before, so limited
+   - improved some collaborative features of the system.
 
 
 ### Data Input Formats
