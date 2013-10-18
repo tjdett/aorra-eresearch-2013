@@ -356,7 +356,7 @@ business rules.
 
 ### Chart creation
 
-<video class="webm-video" style="height: 14em" controls>
+<video data-autoplay class="webm-video" style="height: 14em" controls>
   <source src="video/chart.webm"/>
 </video>
 
@@ -381,7 +381,7 @@ In this screencast:
 
 ### Real-time notifications
 
-<video class="webm-video" style="height: 16em" controls>
+<video data-autoplay class="webm-video" style="height: 16em" controls>
   <source src="video/notifications.webm"/>
 </video>
 
