@@ -43,12 +43,12 @@ under her Some Rights Reserved licence
 
 <aside class="notes" data-markdown="">
  - Name
- - Software engineer at UQ working on the AORRA project.
+ - Software engineer at UQ eResearch Lab working on the AORRA project.
 
 The goal of the AORRA project: "improve the delivery of annual reports
 relating to the health of the Great Barrier Reef". 
 
-automating repetitive manual steps -> reduce delays and improve quality
+automating repetitive manual steps → reduce delays and improve the quality
 </aside>
 </section>
 
@@ -61,11 +61,11 @@ automating repetitive manual steps -> reduce delays and improve quality
 Note:
 So, a quick background on what these reef report cards are...
 
- - Water pollution - threat to Great Barrier Reef. 
- - 40 catchments and 400 thousand square kilometers
+ - Water pollution - major threat to Great Barrier Reef. 
+ - 40 catchments across 400 thousand square kilometers
    - waterways in the catchment area contain significant sediment and
 chemical run-off from farming and grazing.
-   - contaminated water -> reef
+   - contaminated water → reef
  - detrimental in a number of ways
    - interfering with coral development
    - increasing the outbreaks of coral eating starfish
@@ -83,8 +83,8 @@ goal.
 
 Note:
 Reef Water Quality Protection Plan is a collaborative program designed to
-improve the quality of the Great Barrier Reef through improved land management
-practices in reef catchments. 
+improve the quality of water feeding into the Great Barrier Reef through
+improved land management practices in reef catchments. 
 
 Joint commitment between the Australian and Queensland Governments.
 
@@ -184,11 +184,12 @@ Fairly straight-forward proposition - must be careful
 that the system doesn't introduce more work than it saves.
 
 Another good reason to automate:
+
  - manual copying → incorrect reentry
  - initial prototyping: automated generation of key charts with simple form
- - increased the data points in the charts -> increasingly no. errors
+ - increased the data points in the charts → increasingly no. errors
 
-Report card data into an online system -> improving tracking of that data.
+Report card data into an online system → improving tracking of that data.
 
 Gives us opportunities to share and reuse data, and it also lets us improve 
 long-term access and preservation of that data.
@@ -213,10 +214,12 @@ done so far.
 Scoping study identified the need for centralised document management.
 
 Most documents supplied by contributing agencies → Microsoft Word & Excel.
+
  - multiple iterations of feedback and improvement
  - "version control by email".
 
 discussed earlier - identified need to automatically generate charts
+
  - graphic design work → time intensive,
  - contributors limited to simple Excel-based charts when producing analyses
 
@@ -226,19 +229,22 @@ with a number of domain-specific extensions.
 Scoping study identified existing software we could have extended.
 
 A problem emerged:
- - best **simple** open-source document management systems -> PHP
- - best open-source chart tools -> Java
- - PHP to Java bridges -> probably not a good move
+
+ - best **simple** open-source document management systems → PHP
+ - best open-source chart tools → Java
+ - PHP to Java bridges → probably not a good move
 
 Already had Java-based chart libraries from scoping study
+
  - brief look at Java DMS
  - all seemed aimed at enterprises with:
    - thousands of users, and 
    - small army of developers to extend them.
 
 In the end, we decided to write own DMS
+
  - simple → functionality required
- - having control of the entire code-base -> integrating easier
+ - having control of the entire code-base → integrating easier
 
 
 ### Tech we're using
@@ -337,10 +343,12 @@ It's sometimes tempting to build workflow management into a system, to better
 "manage the process".
 
 Aren't any good reasons to do that here:
+
  - not many people involved once the raw data has been processed
  - email workflow already → everybody already talking to each other
 
 Set out to avoid incorporating processes whenever possible:
+
  - no fixed data hierarchy 
  - minimal folder-based permission system
  
@@ -362,6 +370,7 @@ AORRA is a modern web app, using asynchronous background requests to update
 the user interface.
 
 In this screencast:
+
  - files being uploaded as a group to AORRA
  - flip through the generated charts
  - all the charts are downloadable as a single archive
@@ -384,6 +393,7 @@ To aid collaboration, AORRA provides real-time notifications of other user
 activity. [start video]
 
 This screencast shows two different users logged in:
+
  - top user
    - navigates to a file
    - watch it for changes
@@ -426,6 +436,7 @@ Note:
 So, what's next?
 
 Reef Secretariat have been focused on print-format report cards
+
  - website reusing the print assets
  - start targeting the web → interactive charts and infographics
 
@@ -448,6 +459,7 @@ data we'd like to go all the way back to the raw data. The Health-e-Waterways
 project does something similar already.
 
 This will be a significant challege:
+
  - Reef Secretariat doesn't receive anything close to the raw data. 
  - source data for spreadsheets → generally aggregated already
  - aggregated by contributor software systems
