@@ -61,6 +61,7 @@ automating repetitive manual steps → reduce delays and improve the quality
 Note:
 So, a quick background on what these reef report cards are...
 
+ - Annual economic benefit of Great Barrier Reef → ~$5 billion
  - Water pollution - major threat to Great Barrier Reef. 
  - 40 catchments across 400 thousand square kilometers
    - waterways in the catchment area contain significant sediment and
