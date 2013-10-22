@@ -143,9 +143,10 @@ Reports and collected data are processed by the Reef Secretariat under DP&C.
 ![Reef Report Card](images/reef-report-card-2011.jpg)
 
 Note:
-most useful feedback: closely follow the completion of data collection
+Feedback most useful when it closely follows the completion of data
+collection.
 
-Analyis of the raw data by relevant agencies takes considerable time, as does
+Analysis of the raw data by relevant agencies takes considerable time, as does
 collation and publishing.
 
 Media coverage (and resulting public engagement) also benefits from timely
