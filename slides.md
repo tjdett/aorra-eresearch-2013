@@ -279,18 +279,18 @@ In the end, we decided to write own DMS
 
 Note:
 
- - followed the lead of other document management systems 
-   - build on top of a Java Content Repository
-   - Apache Jackrabbit.
- - Using JVM, - didn't need a servlet container
-   - opted for the Play Framework.
-   - not quite as quick to develop with as RoR / Django
-   - still pretty good
- - Play Framework is built by Typesafe
-   - founded by the creators of the Scala programming language
-   - mix in Scala where it made sense. 
-   - hadn't used it before, so limited
-   - improved some collaborative features of the system.
+- followed the lead of other document management systems 
+  - build on top of a Java Content Repository
+  - Apache Jackrabbit.
+- Using JVM → didn't need a servlet container
+  - opted for the Play Framework.
+  - not quite as quick to develop with as RoR / Django
+  - still pretty good
+- Play Framework is built by Typesafe
+  - founded by the creators of the Scala programming language
+  - mix in Scala where it made sense. 
+  - hadn't used it before, so limited
+  - improved some collaborative features of the system.
 
 
 ### Data Input Formats
@@ -357,7 +357,7 @@ business rules.
 
 ### Chart creation
 
-<video data-autoplay class="webm-video" style="height: 14em" controls>
+<video data-autoplay class="webm-video" style="width: 24em" controls>
   <source src="video/chart.webm"/>
 </video>
 
@@ -382,7 +382,7 @@ In this screencast:
 
 ### Real-time notifications
 
-<video data-autoplay class="webm-video" style="height: 16em" controls>
+<video data-autoplay class="webm-video" style="width: 22em" controls>
   <source src="video/notifications.webm"/>
 </video>
 
